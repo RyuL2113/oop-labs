@@ -1,8 +1,8 @@
-# oop-lab1-todo
+# oop-rpg
 
-[Инструкция, чек-лист и скриншот](lab1-todo/README.md)
+[Инструкция, чек-лист и скриншот](rpg/README.md)
 
 Windows + .NET 8 SDK.
 
-Запуск: `dotnet run --project lab1-todo/Todo.csproj`
+Запуск: `dotnet run --project rpg/Rpg.csproj`
 
