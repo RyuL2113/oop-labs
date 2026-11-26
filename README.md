@@ -1,8 +1,8 @@
-# oop-lab1-todo
+# oop-lab4-battleship
 
-[Инструкция, чек-лист и скриншот](lab1-todo/README.md)
+[Инструкция, чек-лист и скриншот](lab4-battleship/README.md)
 
 Windows + .NET 8 SDK.
 
-Запуск: `dotnet run --project lab1-todo/Todo.csproj`
+Запуск: `dotnet run --project lab4-battleship/Battleship.csproj`
 
