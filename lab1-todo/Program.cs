@@ -1,4 +1,4 @@
-namespace Zen.Chat;
+namespace Zen.Todo;
 
 internal static class Program
 {
@@ -6,6 +6,6 @@ internal static class Program
     private static void Main()
     {
         ApplicationConfiguration.Initialize();
-        Application.Run(new LoginForm());
+        Application.Run(new MainForm());
     }
 }

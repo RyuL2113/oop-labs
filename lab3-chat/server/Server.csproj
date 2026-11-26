@@ -1,1 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk"><PropertyGroup><OutputType>Exe</OutputType></PropertyGroup><ItemGroup><ProjectReference Include="../../shared/Core/Core.csproj"/><Compile Include="../Network.cs" Link="Network.cs"/></ItemGroup></Project>
